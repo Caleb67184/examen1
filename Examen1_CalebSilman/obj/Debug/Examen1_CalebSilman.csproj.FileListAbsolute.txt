@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Examen1_CalebSilman\Examen1_CalebSilman\bin\Debug\Examen1_CalebSilman.exe.config
+C:\Users\Admin\source\repos\Examen1_CalebSilman\Examen1_CalebSilman\bin\Debug\Examen1_CalebSilman.exe
+C:\Users\Admin\source\repos\Examen1_CalebSilman\Examen1_CalebSilman\bin\Debug\Examen1_CalebSilman.pdb
+C:\Users\Admin\source\repos\Examen1_CalebSilman\Examen1_CalebSilman\obj\Debug\Examen1_CalebSilman.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Examen1_CalebSilman\Examen1_CalebSilman\obj\Debug\Examen1_CalebSilman.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Examen1_CalebSilman\Examen1_CalebSilman\obj\Debug\Examen1_CalebSilman.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Examen1_CalebSilman\Examen1_CalebSilman\obj\Debug\Examen1_CalebSilman.exe
+C:\Users\Admin\source\repos\Examen1_CalebSilman\Examen1_CalebSilman\obj\Debug\Examen1_CalebSilman.pdb
